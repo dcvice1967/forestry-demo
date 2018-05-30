@@ -1,8 +1,8 @@
 ---
-title: Home
+title: Test Home
 banner_image: "/img/banner.png"
 layout: landing-page
-heading: Belkirk College
+heading: Some Place
 partners: []
 services:
 - description: Performing collaborative research and providing services to support
@@ -13,7 +13,7 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Engineering and Health Sciences
+sub_heading: The Lab
 textline: |
   Belkirk College of Engineering
 
